@@ -1,11 +1,11 @@
 Summary:	threadpoolctl
 Name:		python-threadpoolctl
-Version:	3.2.0
+Version:	3.3.0
 Release:	1
 License:	BSD-3-Clause
 Group:		Development/Python
 URL:		https://pypi.org/project/threadpoolctl/
-Source0:	ttps://pypi.org/packages/packages/source/t/threadpoolctl/threadpoolctl-%{version}.tar.gz
+Source0:	https://pypi.org/packages/source/t/threadpoolctl/threadpoolctl-%{version}.tar.gz
 BuildRequires:	python%{pyver}dist(cython)
 BuildRequires:	python%{pyver}dist(flit)
 BuildRequires:	python%{pyver}dist(pip)
