@@ -1,6 +1,6 @@
 Summary:	threadpoolctl
 Name:		python-threadpoolctl
-Version:	3.3.0
+Version:	3.5.0
 Release:	1
 License:	BSD-3-Clause
 Group:		Development/Python
