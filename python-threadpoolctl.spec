@@ -3,8 +3,8 @@
 %bcond tests 0
 
 Name:		python-threadpoolctl
-Version:	3.6.0
-Release:	2
+Version:	3.7.0
+Release:	1
 Summary:	Python helpers to limit the number of threads used in libraries
 License:	BSD-3-Clause
 Group:		Development/Python
